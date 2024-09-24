@@ -1,0 +1,9 @@
+{
+	"name": "dfyoga-v1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8ab1e2bc-d68c-4640-a5d4-c98caefe8516",
+		"tenantId": "ff355289-721e-4dd7-a663-afec62ab9d54"
+	}
+}
